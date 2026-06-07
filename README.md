@@ -10,7 +10,5 @@ _I spend much time online when I'm not within schoolwork, but I wish someday cre
 
 <a href="https://github.com/jstrieb/github-stats">
   <img src="https://raw.githubusercontent.com/perfectsyn/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview in dark mode" />
-  <img src="https://raw.githubusercontent.com/perfectsyn/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview in light mode" />
   <img src="https://raw.githubusercontent.com/perfectsyn/github-stats/generated/languages.svg#gh-dark-mode-only" alt="GitHub language statistics in dark mode" />
-  <img src="https://raw.githubusercontent.com/perfectsyn/github-stats/generated/languages.svg#gh-light-mode-only" alt="GitHub language statistics in light mode" />
 </a>
